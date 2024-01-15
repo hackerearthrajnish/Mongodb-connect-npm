@@ -1,0 +1,7 @@
+{
+  "name": "mongo-connect-4x",
+  "version": "0.0.1",
+  "description": "latest mongo-connect npm module",
+  "main": "index.js",
+  "author": "Applane"
+}
